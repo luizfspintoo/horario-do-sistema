@@ -12,7 +12,7 @@ Desenvolvido para reforçar conceitos de tecnologias web<br/>
 <br>
 
 <p align="center">
- <img alt="License" src="./.github/preview.png">
+ <img src="../.github/preview.png">
 </p>
 
 <br>
