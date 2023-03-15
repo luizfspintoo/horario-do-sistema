@@ -31,5 +31,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Horário do sistema é um programa que captura o horário de Brasília através do DOM. Seu objetivo é mostrar aos usuários a hora atual do OS, o projeto conta também com a interação do DOM, para trocar as imagens de background conforme os períodos. Manhã, tarde e noite.
+O Horário do sistema é um programa que captura o horário OS. Seu objetivo é mostrar aos usuários a hora atual.
 
