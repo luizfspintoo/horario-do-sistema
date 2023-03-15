@@ -24,9 +24,10 @@ https://horariodosistema.lzfelipe.dev
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript e DOM
-- Git e Github
+- HTML 
+- CSS
+- JavaScript
+
 
 ## 💻 Projeto
 
