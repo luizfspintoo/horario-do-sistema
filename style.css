@@ -20,12 +20,12 @@ body {
 section {
   background-color: var(--corbranco);
   border-radius: 10px;
-  width: 380px;
+  width: 410px;
   height: 70px;
   margin: 25px auto;
 }
 
 div#res {
-  padding-top: 15px;
+  padding-top: 17px;
   color: var(--corpreto);
 }
