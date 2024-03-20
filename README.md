@@ -9,8 +9,7 @@
   <img alt="Mostrando horário do sistema na tela" src=".github/captura.jpg" width="100%">
 </p>
 
-## Demo
-https://horariodosistema.lzfelipe.dev
+
 
 ## 🚀 Tecnologias
 
